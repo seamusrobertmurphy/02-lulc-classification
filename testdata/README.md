@@ -1,37 +1,3 @@
----
-title: "LULC Classification"
-date: 2024-11-04
-author: 
-  - name: Seamus Murphy
-    orcid: 0000-0002-1792-0351 
-    email: seamusrobertmurphy@gmail.com
-abstract: > 
-  A workflow for deriving land cover map using supervised classification in accordance with Verra's new methodology for unplanned deforestation allocation in jurisdictional nested REDD+ projects using the [VT0007 tool](https://verra.org/wp-content/uploads/2024/02/VT0007-Unplanned-Deforestation-Allocation-v1.0.pdf).
-keywords:
-  - REDD+
-  - VCS
-  - Verra
-  - Carbon verification
-  - Jurisdictional
-format: 
-  html:
-    toc: true
-    toc-location: right
-    toc-title: "**Contents**"
-    toc-depth: 5
-    toc-expand: 4
-    theme: [minimal, styles.scss]
-highlight-style: github
-df-print: kable
-keep-md: true
-prefer-html: true
-engine: knitr
----
-
-
-
-
-
 
 ## Environment setup
 
